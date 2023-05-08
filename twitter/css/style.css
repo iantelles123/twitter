@@ -1,0 +1,38 @@
+body{
+    display: flex;
+    padding-top: 250px;
+    justify-content: center;
+    background-color: gray;
+    font-family: 'Roboto', sans-serif;
+}
+
+.caixap{
+    background-color: #fff;
+    width: 400px;
+    height: 500px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 55px;
+}
+
+.logo{
+    color: #00ace0;
+}
+
+.p2{
+    color: #00ace0;
+}
+
+.google{ 
+    height: 35px;
+    border-radius: 7px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #fff;
+}
+
+.apple{
+    height: 35px;
+    border-radius: 7px;
+    font-family: 'Roboto' , sans-serif;
+    background-color: #fff;
+}
